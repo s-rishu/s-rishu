@@ -11,6 +11,23 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 </p>
 <br>
 <br>
+<p align="left"> 
+  <img align="left" src="./assets/puglie-puglie-pug.gif"/>
+</p>
+<br>
+<h3 align="center"">🏃Things that get me moving</h3>
+<p align="center"> 
+  Coding 💻, Systems 📚 & Algorithms 📠<br>
+  Music 🎧, Anime 🍥 & Travelling 🌴<br>
+  Dogs 🐶 & Coffee :coffee: <br>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <!--
@@ -35,5 +52,5 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center"> 
-  <img align="center" src="./assets/footer.gif" height="240" width="110%"/>
+  <img align="center" src="./assets/after-effects-running-2.gif" height="200" width="100%"/>
 </p>
