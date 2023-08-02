@@ -24,10 +24,6 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 <!--
