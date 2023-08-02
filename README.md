@@ -21,6 +21,7 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 </p>
 <br>
 <br>
+<br>
 <h3 align="center"">💻 Technologies I have worked with</h3>
 <p align="center"> 
   Python | C | OCaml | Scala | Java | Linux | Bash | Kubernetes | Docker | Jenkins | Git | Bitbucket | VS Code | IntelliJ <br>
