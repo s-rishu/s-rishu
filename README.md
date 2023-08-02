@@ -1,7 +1,6 @@
 <p align="right"> 
-  <img align="right" src="./assets/excited-puppy.gif" height="240" width="370"/>
+  <picture><img align="right" src="./assets/excited-puppy-edited.gif" height="240" width="370"/></picture>
 </p>
-<br>
 <br>
 <br>
 Hi there, I am Rishu 👋. I’m currently a final year Masters student at <strong><a href="https://www.nyu.edu">NYU</a></strong>. I have previously worked as a developer for ~3 years at <strong><a href="https://www.jpmorganchase.com">JP Morgan Chase</a></strong>. It's nice to meet you 😁
@@ -12,7 +11,7 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <br>
 <p align="left"> 
-  <img align="left" src="./assets/puglie-puglie-pug.gif"/>
+  <picture><img align="left" src="./assets/puglie-puglie-pug.gif"/></picture>
 </p>
 <br>
 <h3 align="center"">🏃Things that get me moving</h3>
@@ -48,5 +47,5 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center"> 
-  <img align="center" src="./assets/after-effects-running-2.gif" height="200" width="100%"/>
+  <picture><img align="center" src="./assets/after-effects-running-2.gif" height="200" width="100%"/></picture>
 </p>
