@@ -29,11 +29,30 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <h3 align="center"">Thanks for visiting, here is some music for you to explore 🎧</h3>
 <p align="center"> 
-<picture align="center"><img src="./assets/husky-and-shiba.gif" height="60" width="120"/></picture>
- </p> 
-<p align="center"> 
-  Python | C | OCaml | Scala | Java | Linux | Bash | Kubernetes | Docker | Jenkins | Git | Bitbucket | VS Code | IntelliJ <br>
-  Operating Systems | Networks | Algorithms | Data Science | Cloud Infrastructure
+<picture align="center"><img src="./assets/husky-and-shiba.gif" height="50" width="100"/></picture>
+ </p>  
+<p align="center">
+  <a href="https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=hEJKGltsSoam_Ltfp8gKNg">
+    <img src="assets/random-access-memory.gif" height="80px "width="80px">
+  </a> &nbsp;
+  <a href="https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a?si=mHqPrrb7Q6ioyS4_NNJmWw">
+    <img src="assets/moon-safari.gif" height="80px "width="80px">
+  </a> &nbsp;
+  <a href="https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?si=jp4bhHHBTMaGBkkWPgOt7Q">
+    <img src="assets/wish-you-were-here.gif" height="80px "width="80px">
+  </a> &nbsp;
+  <a href="https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04?si=TexNbLOURmyFjvAqn-1nyg">
+    <img src="assets/magnolia.webp" height="80px "width="80px">
+  </a>&nbsp;
+  <a href="https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56?si=miFZqZOSQNe-MDwvycGkZA">
+    <img src="assets/ziggy-stardust.gif" height="80px "width="80px">
+  </a>&nbsp;
+  <a href="https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=f2WFqooUR6aotPYGBfjQlA">
+    <img src="assets/ok-computer.gif" height="80px "width="80px">
+  </a>&nbsp;
+  <a href="https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k?si=xLmAFGBpTJW6ohePhcw8mQ">
+    <img src="assets/selected-ambient-works.gif" height="80px "width="80px"">
+  </a>&nbsp;
 </p>
 <br>
 
@@ -52,11 +71,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center"> 
+  <picture><img align="center" src="./assets/after-effects-running-2.gif" height="170" width="100%"/></picture>
+</p>
 -->
 <p align="center"> 
   YOU ARE VISITOR NUMBER:<br>
   <img src="https://profile-counter.glitch.me/s-rishu/count.svg" />
 </p>
-<p align="center"> 
-  <picture><img align="center" src="./assets/after-effects-running-2.gif" height="170" width="100%"/></picture>
-</p>
+
