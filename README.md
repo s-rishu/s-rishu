@@ -11,7 +11,7 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <br>
 <p align="left"> 
-  <picture><img align="left" src="./assets/puglie-puglie-pug.gif"/></picture>
+  <picture><img align="left" src="./assets/doge-type.gif" height="240" width="370"/></picture>
 </p>
 <br>
 <h3 align="center"">🏃Things that get me moving</h3>
@@ -23,7 +23,7 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <br>
 <br>
-
+<br>
 
 <!--
 **s-rishu/s-rishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
