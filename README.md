@@ -7,6 +7,9 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <h3 align="center">🔍 Where to find me</h3>
 <p align="center"><a href="https://github.com/s-rishu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rishu-singh-734029132/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-282C34?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rishu.singh1203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 <br>
 <br>
