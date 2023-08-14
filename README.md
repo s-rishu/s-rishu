@@ -55,6 +55,9 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
   <a href="https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=f2WFqooUR6aotPYGBfjQlA">
     <img src="assets/ok-computer.gif" height="80px "width="80px">
   </a>&nbsp;
+   <a href="https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG?si=VkoKrdriSn-oa9D9IIdSVQ">
+    <img src="assets/love-deluxe.gif" height="80px "width="80px"">
+  </a>&nbsp;
   <a href="https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k?si=xLmAFGBpTJW6ohePhcw8mQ">
     <img src="assets/selected-ambient-works.gif" height="80px "width="80px"">
   </a>&nbsp;
