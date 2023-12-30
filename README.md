@@ -27,9 +27,9 @@ Hi there, I am Rishu 👋. I’m currently a final year Masters student at <stro
 <br>
 <h3 align="center"">💻 Technologies I have worked with</h3>
 <p align="center"> 
-  Python  &nbsp;|&nbsp;  C&nbsp; |&nbsp;  OCaml&nbsp;  | &nbsp; Scala  &nbsp;|  &nbsp;Java  &nbsp;| &nbsp; Bash 
-  <br> Linux &nbsp;|&nbsp; Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Jenkins &nbsp;|&nbsp; Git &nbsp;|&nbsp; Bitbucket &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; IntelliJ <br>
-  Operating Systems &nbsp;|&nbsp; Networks &nbsp;|&nbsp; Algorithms &nbsp;|&nbsp; Data Science &nbsp;|&nbsp; Cloud Infrastructure
+  Python  &nbsp;|&nbsp;  C&nbsp; |&nbsp;  C++&nbsp; |&nbsp;  OCaml&nbsp;  | &nbsp; Scala  &nbsp;|  &nbsp;Java  &nbsp;| &nbsp; Bash 
+  <br> Linux &nbsp;|&nbsp; OpenMP &nbsp;|&nbsp; Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Jenkins &nbsp;|&nbsp; Git &nbsp;|&nbsp; Bitbucket &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; IntelliJ <br>
+  Operating Systems &nbsp;|&nbsp; Networks &nbsp;|&nbsp; Algorithms &nbsp;|&nbsp; Database Design &nbsp;|&nbsp; Multicore Architecture 
 </p>
 <br>
 <h3 align="center"">Thanks for visiting, here is some music for you to explore 🎧</h3>
